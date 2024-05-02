@@ -1,7 +1,7 @@
 Automated ATT&CK Defense: Sysmon & Azure Integration 
 
 # Project Proponent
-Name: Anudeep Goud Kotagiri <br />
+Name: Sajal Agarwal <br />
 Program: Masters in Software Engineering <br />
 Institution: San Jose State University <br />
 
